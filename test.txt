@@ -1,0 +1,3 @@
+erl -sname messenger
+erl -sname c1
+erl -sname c2
